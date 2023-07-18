@@ -1,40 +1,20 @@
 ---
-title: "Frank Hermosillo"
-image: "frank.jpg"
-links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
-  - label: GitHub
-    url: "https://github.com/"
-  - label: Email
-    url: "mailto:email@email.com"
+title: "Publications"
 output:
-  postcards::trestles
+  distill::distill_article:
+    toc: TRUE
 ---
  
-## Bio
+## Journal articles
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Davan, K. M., Poudyal, N. C., Applegate, R. D., & Feddersen, J. C. (2023). The effects of expectations, motivations, and constraints on small game hunters’ seasonal satisfaction. Wildlife Research.
 
-## Education
+## Theses
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+Davan, K. (2021). An assessment of small game hunters’ and trappers’ motivations, satisfaction, and constraints [Master's thesis, University of Tennessee]. [https://trace.tennessee.edu/utk_gradthes/6224](https://trace.tennessee.edu/utk_gradthes/6224)
 
-Ph.D. in Computer Science | September 2009 - May 2014
+Davan, K. (2019). Do Different Methods of Communication Impact Undergraduate Student’s Knowledge, Attitudes, & Beliefs Towards White-Nose Syndrome in Little Brown Bats [Honor's Thesis,University of Maine]. Honors College. [https://digitalcommons.library.umaine.edu/honors/482](https://digitalcommons.library.umaine.edu/honors/482/)
 
-**The University of California, Berkeley** | Berkeley, CA
+## Misc
 
-B.S. in Computer Science | September 2005 - May 2009
-
-## Experience
-
-**Google Brain** | Principal Investigator | January 2018 - Present
-
-**Netflix** | Research Scientist | June 2014 - December 2017
+Davan, K., Poudyal, N. C., Applegate, R. D., & Feddersen, J. (2021, Spring). Understanding a tradition. Tennessee Wildlife. [https://www.researchgate.net/publication/367207498_Davan_K_Poudyal_N_C_Applegate_R_D_Feddersen_J_2021_Spring_Understanding_a_tradition_Tennessee_Wildlife](https://www.researchgate.net/publication/367207498_Davan_K_Poudyal_N_C_Applegate_R_D_Feddersen_J_2021_Spring_Understanding_a_tradition_Tennessee_Wildlife)
